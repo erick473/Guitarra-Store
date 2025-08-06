@@ -11,6 +11,7 @@ Currently, two official plugins are available:
 
 ## Actualizado desde github
 Hi, this message was writted in github only to see or use the functionality of commits from here 
+One more time, only to see the new configuration of ff
 
 If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
 
