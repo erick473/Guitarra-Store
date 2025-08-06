@@ -9,6 +9,8 @@ Currently, two official plugins are available:
 
 ## Expanding the ESLint configuration
 
+## Actualizado desde github
+
 If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
 
 ```js
